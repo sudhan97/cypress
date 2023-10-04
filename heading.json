@@ -1,0 +1,7376 @@
+[
+  {
+    "id": 546,
+    "attributes": {
+      "slug": "electric-bikes/hop"
+    }
+  },
+  {
+    "id": 558,
+    "attributes": {
+      "slug": "electric-bikes/gemopai"
+    }
+  },
+  {
+    "id": 676,
+    "attributes": {
+      "slug": "new-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 582,
+    "attributes": {
+      "slug": "electric-bikes/orxa"
+    }
+  },
+  {
+    "id": 573,
+    "attributes": {
+      "slug": "electric-bikes/one"
+    }
+  },
+  {
+    "id": 550,
+    "attributes": {
+      "slug": "electric-bikes/gravton"
+    }
+  },
+  {
+    "id": 571,
+    "attributes": {
+      "slug": "electric-bikes/dynam"
+    }
+  },
+  {
+    "id": 2445,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 568,
+    "attributes": {
+      "slug": "electric-bikes/aeroride-electric"
+    }
+  },
+  {
+    "id": 554,
+    "attributes": {
+      "slug": "electric-bikes/kabira"
+    }
+  },
+  {
+    "id": 560,
+    "attributes": {
+      "slug": "electric-bikes/joy-e-bike"
+    }
+  },
+  {
+    "id": 563,
+    "attributes": {
+      "slug": "electric-bikes/okinawa"
+    }
+  },
+  {
+    "id": 548,
+    "attributes": {
+      "slug": "electric-bikes/emote"
+    }
+  },
+  {
+    "id": 564,
+    "attributes": {
+      "slug": "electric-bikes/pure-ev"
+    }
+  },
+  {
+    "id": 1516,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 552,
+    "attributes": {
+      "slug": "electric-bikes/komaki"
+    }
+  },
+  {
+    "id": 551,
+    "attributes": {
+      "slug": "electric-bikes/revamp"
+    }
+  },
+  {
+    "id": 576,
+    "attributes": {
+      "slug": "electric-bikes/future-garage"
+    }
+  },
+  {
+    "id": 557,
+    "attributes": {
+      "slug": "electric-bikes/evolet"
+    }
+  },
+  {
+    "id": 585,
+    "attributes": {
+      "slug": "electric-bikes/adms"
+    }
+  },
+  {
+    "id": 549,
+    "attributes": {
+      "slug": "electric-bikes/oben"
+    }
+  },
+  {
+    "id": 578,
+    "attributes": {
+      "slug": "electric-bikes/livewire"
+    }
+  },
+  {
+    "id": 562,
+    "attributes": {
+      "slug": "electric-bikes/odysse"
+    }
+  },
+  {
+    "id": 570,
+    "attributes": {
+      "slug": "electric-bikes/zero"
+    }
+  },
+  {
+    "id": 599,
+    "attributes": {
+      "slug": "electric-scooters/suzuki"
+    }
+  },
+  {
+    "id": 579,
+    "attributes": {
+      "slug": "electric-bikes/eeve"
+    }
+  },
+  {
+    "id": 637,
+    "attributes": {
+      "slug": "electric-scooters/merico"
+    }
+  },
+  {
+    "id": 566,
+    "attributes": {
+      "slug": "electric-bikes/ultraviolette"
+    }
+  },
+  {
+    "id": 572,
+    "attributes": {
+      "slug": "electric-bikes/rowet"
+    }
+  },
+  {
+    "id": 1804,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 574,
+    "attributes": {
+      "slug": "electric-bikes/srivaru"
+    }
+  },
+  {
+    "id": 583,
+    "attributes": {
+      "slug": "electric-bikes/svitch"
+    }
+  },
+  {
+    "id": 587,
+    "attributes": {
+      "slug": "electric-scooters/tvs"
+    }
+  },
+  {
+    "id": 620,
+    "attributes": {
+      "slug": "electric-scooters/dynam"
+    }
+  },
+  {
+    "id": 610,
+    "attributes": {
+      "slug": "electric-scooters/okinawa"
+    }
+  },
+  {
+    "id": 597,
+    "attributes": {
+      "slug": "electric-scooters/yo"
+    }
+  },
+  {
+    "id": 596,
+    "attributes": {
+      "slug": "electric-scooters/kabira"
+    }
+  },
+  {
+    "id": 593,
+    "attributes": {
+      "slug": "electric-scooters/okaya"
+    }
+  },
+  {
+    "id": 595,
+    "attributes": {
+      "slug": "electric-scooters/lectrix"
+    }
+  },
+  {
+    "id": 604,
+    "attributes": {
+      "slug": "electric-scooters/bounce"
+    }
+  },
+  {
+    "id": 586,
+    "attributes": {
+      "slug": "electric-scooters/ather"
+    }
+  },
+  {
+    "id": 598,
+    "attributes": {
+      "slug": "electric-scooters/tunwal"
+    }
+  },
+  {
+    "id": 592,
+    "attributes": {
+      "slug": "electric-scooters/ola"
+    }
+  },
+  {
+    "id": 594,
+    "attributes": {
+      "slug": "electric-scooters/komaki"
+    }
+  },
+  {
+    "id": 600,
+    "attributes": {
+      "slug": "electric-scooters/22kymco"
+    }
+  },
+  {
+    "id": 618,
+    "attributes": {
+      "slug": "electric-scooters/aeroride-electric"
+    }
+  },
+  {
+    "id": 625,
+    "attributes": {
+      "slug": "electric-scooters/lml"
+    }
+  },
+  {
+    "id": 632,
+    "attributes": {
+      "slug": "electric-scooters/kinetic-green"
+    }
+  },
+  {
+    "id": 533,
+    "attributes": {
+      "slug": "new-bikes/street-bikes"
+    }
+  },
+  {
+    "id": 526,
+    "attributes": {
+      "slug": "new-bikes/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 529,
+    "attributes": {
+      "slug": "new-bikes/tourer-bikes"
+    }
+  },
+  {
+    "id": 626,
+    "attributes": {
+      "slug": "electric-scooters/river"
+    }
+  },
+  {
+    "id": 591,
+    "attributes": {
+      "slug": "electric-scooters/hop"
+    }
+  },
+  {
+    "id": 601,
+    "attributes": {
+      "slug": "electric-scooters/ampere"
+    }
+  },
+  {
+    "id": 590,
+    "attributes": {
+      "slug": "electric-scooters/bajaj"
+    }
+  },
+  {
+    "id": 603,
+    "attributes": {
+      "slug": "electric-scooters/bgauss"
+    }
+  },
+  {
+    "id": 606,
+    "attributes": {
+      "slug": "electric-scooters/gemopai"
+    }
+  },
+  {
+    "id": 611,
+    "attributes": {
+      "slug": "electric-scooters/pure-ev"
+    }
+  },
+  {
+    "id": 629,
+    "attributes": {
+      "slug": "electric-scooters/yulu"
+    }
+  },
+  {
+    "id": 607,
+    "attributes": {
+      "slug": "electric-scooters/hero-electric"
+    }
+  },
+  {
+    "id": 531,
+    "attributes": {
+      "slug": "new-bikes/maxi-scooter-bikes"
+    }
+  },
+  {
+    "id": 602,
+    "attributes": {
+      "slug": "electric-scooters/benling"
+    }
+  },
+  {
+    "id": 608,
+    "attributes": {
+      "slug": "electric-scooters/joy-e-bike"
+    }
+  },
+  {
+    "id": 1575,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 528,
+    "attributes": {
+      "slug": "new-bikes/electric-bikes"
+    }
+  },
+  {
+    "id": 612,
+    "attributes": {
+      "slug": "electric-scooters/simple-energy"
+    }
+  },
+  {
+    "id": 2375,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 624,
+    "attributes": {
+      "slug": "electric-scooters/motovolt"
+    }
+  },
+  {
+    "id": 525,
+    "attributes": {
+      "slug": "new-bikes/commuter-bikes"
+    }
+  },
+  {
+    "id": 615,
+    "attributes": {
+      "slug": "electric-scooters/fujiyama"
+    }
+  },
+  {
+    "id": 622,
+    "attributes": {
+      "slug": "electric-scooters/quantum"
+    }
+  },
+  {
+    "id": 567,
+    "attributes": {
+      "slug": "electric-bikes/birla"
+    }
+  },
+  {
+    "id": 532,
+    "attributes": {
+      "slug": "new-bikes/scrambler-bikes"
+    }
+  },
+  {
+    "id": 575,
+    "attributes": {
+      "slug": "electric-bikes/evtric"
+    }
+  },
+  {
+    "id": 623,
+    "attributes": {
+      "slug": "electric-scooters/vida"
+    }
+  },
+  {
+    "id": 1534,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 556,
+    "attributes": {
+      "slug": "electric-bikes/emflux-motors"
+    }
+  },
+  {
+    "id": 627,
+    "attributes": {
+      "slug": "electric-scooters/vioma"
+    }
+  },
+  {
+    "id": 628,
+    "attributes": {
+      "slug": "electric-scooters/eeve"
+    }
+  },
+  {
+    "id": 634,
+    "attributes": {
+      "slug": "electric-scooters/battre"
+    }
+  },
+  {
+    "id": 1496,
+    "attributes": {
+      "slug": "best-mileage-bikes/cafe-racer-bikes"
+    }
+  },
+  {
+    "id": 2386,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1226,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1877,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 2438,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1411,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 1409,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 641,
+    "attributes": {
+      "slug": "electric-scooters/amo"
+    }
+  },
+  {
+    "id": 1413,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 577,
+    "attributes": {
+      "slug": "electric-bikes/evoke"
+    }
+  },
+  {
+    "id": 639,
+    "attributes": {
+      "slug": "electric-scooters/adms"
+    }
+  },
+  {
+    "id": 1407,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1414,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 638,
+    "attributes": {
+      "slug": "electric-scooters/super-eco"
+    }
+  },
+  {
+    "id": 1851,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1507,
+    "attributes": {
+      "slug": "best-mileage-bikes/sports-naked-bikes"
+    }
+  },
+  {
+    "id": 1410,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 640,
+    "attributes": {
+      "slug": "electric-scooters/zelio"
+    }
+  },
+  {
+    "id": 1408,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1412,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 1577,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1581,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1424,
+    "attributes": {
+      "slug": "upcoming-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1418,
+    "attributes": {
+      "slug": "upcoming-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1416,
+    "attributes": {
+      "slug": "upcoming-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1422,
+    "attributes": {
+      "slug": "upcoming-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 1952,
+    "attributes": {
+      "slug": "yamaha-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1381,
+    "attributes": {
+      "slug": "latest-scooters/best-150cc-scooters"
+    }
+  },
+  {
+    "id": 1419,
+    "attributes": {
+      "slug": "upcoming-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2352,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 569,
+    "attributes": {
+      "slug": "electric-bikes/atum-mobility"
+    }
+  },
+  {
+    "id": 1421,
+    "attributes": {
+      "slug": "upcoming-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 1423,
+    "attributes": {
+      "slug": "upcoming-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1582,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1578,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1220,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1380,
+    "attributes": {
+      "slug": "latest-scooters/best-125cc-scooters"
+    }
+  },
+  {
+    "id": 1580,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1585,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1591,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1592,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1587,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1586,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1588,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1590,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1954,
+    "attributes": {
+      "slug": "suzuki-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 588,
+    "attributes": {
+      "slug": "electric-scooters/honda"
+    }
+  },
+  {
+    "id": 1440,
+    "attributes": {
+      "slug": "upcoming-scooters/best-100cc-scooters"
+    }
+  },
+  {
+    "id": 678,
+    "attributes": {
+      "slug": "best-500cc-bikes"
+    }
+  },
+  {
+    "id": 677,
+    "attributes": {
+      "slug": "best-200cc-bikes"
+    }
+  },
+  {
+    "id": 561,
+    "attributes": {
+      "slug": "electric-bikes/kawasaki"
+    }
+  },
+  {
+    "id": 1187,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 2418,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1188,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1598,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1189,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1191,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1193,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1195,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1197,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1199,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1201,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1599,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1194,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1196,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1198,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1200,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1605,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1601,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1446,
+    "attributes": {
+      "slug": "latest-bikes/commuter-bikes"
+    }
+  },
+  {
+    "id": 1206,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1214,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1204,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1210,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1444,
+    "attributes": {
+      "slug": "latest-bikes/adventure-tourer-bikes"
+    }
+  },
+  {
+    "id": 1448,
+    "attributes": {
+      "slug": "latest-bikes/dirt-bikes"
+    }
+  },
+  {
+    "id": 1450,
+    "attributes": {
+      "slug": "latest-bikes/moped-bikes"
+    }
+  },
+  {
+    "id": 1205,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1215,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1203,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1218,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1222,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1219,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1449,
+    "attributes": {
+      "slug": "latest-bikes/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 1223,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1217,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1225,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1447,
+    "attributes": {
+      "slug": "latest-bikes/cruiser-bikes"
+    }
+  },
+  {
+    "id": 1445,
+    "attributes": {
+      "slug": "latest-bikes/cafe-racer-bikes"
+    }
+  },
+  {
+    "id": 1455,
+    "attributes": {
+      "slug": "latest-bikes/sports-bikes"
+    }
+  },
+  {
+    "id": 1458,
+    "attributes": {
+      "slug": "latest-bikes/street-bikes"
+    }
+  },
+  {
+    "id": 1466,
+    "attributes": {
+      "slug": "upcoming-bikes/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 1468,
+    "attributes": {
+      "slug": "upcoming-bikes/naked-bikes"
+    }
+  },
+  {
+    "id": 1460,
+    "attributes": {
+      "slug": "latest-bikes/tourer-bikes"
+    }
+  },
+  {
+    "id": 1462,
+    "attributes": {
+      "slug": "upcoming-bikes/cafe-racer-bikes"
+    }
+  },
+  {
+    "id": 1470,
+    "attributes": {
+      "slug": "upcoming-bikes/scooter-bikes"
+    }
+  },
+  {
+    "id": 1474,
+    "attributes": {
+      "slug": "upcoming-bikes/sports-tourer-bikes"
+    }
+  },
+  {
+    "id": 1476,
+    "attributes": {
+      "slug": "upcoming-bikes/super-bikes"
+    }
+  },
+  {
+    "id": 1600,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1229,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1231,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1233,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1459,
+    "attributes": {
+      "slug": "latest-bikes/super-bikes"
+    }
+  },
+  {
+    "id": 1604,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1602,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1608,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1606,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1612,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1230,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1227,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1228,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1232,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1467,
+    "attributes": {
+      "slug": "upcoming-bikes/moped-bikes"
+    }
+  },
+  {
+    "id": 1465,
+    "attributes": {
+      "slug": "upcoming-bikes/dirt-bikes"
+    }
+  },
+  {
+    "id": 1475,
+    "attributes": {
+      "slug": "upcoming-bikes/street-bikes"
+    }
+  },
+  {
+    "id": 1469,
+    "attributes": {
+      "slug": "upcoming-bikes/off-road-bikes"
+    }
+  },
+  {
+    "id": 1473,
+    "attributes": {
+      "slug": "upcoming-bikes/sports-naked-bikes"
+    }
+  },
+  {
+    "id": 1252,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1238,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1236,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1240,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1254,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1256,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1253,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1251,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1237,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1241,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1243,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1483,
+    "attributes": {
+      "slug": "best-bikes-in-india/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 1485,
+    "attributes": {
+      "slug": "best-bikes-in-india/naked-bikes"
+    }
+  },
+  {
+    "id": 1487,
+    "attributes": {
+      "slug": "best-bikes-in-india/scooter-bikes"
+    }
+  },
+  {
+    "id": 1255,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1615,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1486,
+    "attributes": {
+      "slug": "best-bikes-in-india/off-road-bikes"
+    }
+  },
+  {
+    "id": 1611,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1492,
+    "attributes": {
+      "slug": "best-bikes-in-india/street-bikes"
+    }
+  },
+  {
+    "id": 1378,
+    "attributes": {
+      "slug": "latest-scooters/best-100cc-scooters"
+    }
+  },
+  {
+    "id": 1488,
+    "attributes": {
+      "slug": "best-bikes-in-india/scrambler-bikes"
+    }
+  },
+  {
+    "id": 1480,
+    "attributes": {
+      "slug": "best-bikes-in-india/commuter-bikes"
+    }
+  },
+  {
+    "id": 1482,
+    "attributes": {
+      "slug": "best-bikes-in-india/dirt-bikes"
+    }
+  },
+  {
+    "id": 1494,
+    "attributes": {
+      "slug": "best-bikes-in-india/tourer-bikes"
+    }
+  },
+  {
+    "id": 1484,
+    "attributes": {
+      "slug": "best-bikes-in-india/moped-bikes"
+    }
+  },
+  {
+    "id": 1490,
+    "attributes": {
+      "slug": "best-bikes-in-india/sports-naked-bikes"
+    }
+  },
+  {
+    "id": 1609,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1269,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1265,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1259,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1263,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1489,
+    "attributes": {
+      "slug": "best-bikes-in-india/sports-bikes"
+    }
+  },
+  {
+    "id": 1262,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1264,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1272,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1270,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1624,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1618,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1491,
+    "attributes": {
+      "slug": "best-bikes-in-india/sports-tourer-bikes"
+    }
+  },
+  {
+    "id": 1620,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1957,
+    "attributes": {
+      "slug": "bmw-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1493,
+    "attributes": {
+      "slug": "best-bikes-in-india/super-bikes"
+    }
+  },
+  {
+    "id": 1497,
+    "attributes": {
+      "slug": "best-mileage-bikes/commuter-bikes"
+    }
+  },
+  {
+    "id": 1499,
+    "attributes": {
+      "slug": "best-mileage-bikes/dirt-bikes"
+    }
+  },
+  {
+    "id": 1501,
+    "attributes": {
+      "slug": "best-mileage-bikes/moped-bikes"
+    }
+  },
+  {
+    "id": 1503,
+    "attributes": {
+      "slug": "best-mileage-bikes/off-road-bikes"
+    }
+  },
+  {
+    "id": 1498,
+    "attributes": {
+      "slug": "best-mileage-bikes/cruiser-bikes"
+    }
+  },
+  {
+    "id": 1502,
+    "attributes": {
+      "slug": "best-mileage-bikes/naked-bikes"
+    }
+  },
+  {
+    "id": 1291,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1504,
+    "attributes": {
+      "slug": "best-mileage-bikes/scooter-bikes"
+    }
+  },
+  {
+    "id": 1289,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1283,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1617,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1621,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1290,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1986,
+    "attributes": {
+      "slug": "bmw-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1506,
+    "attributes": {
+      "slug": "best-mileage-bikes/sports-bikes"
+    }
+  },
+  {
+    "id": 1508,
+    "attributes": {
+      "slug": "best-mileage-bikes/sports-tourer-bikes"
+    }
+  },
+  {
+    "id": 1623,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1284,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1292,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1509,
+    "attributes": {
+      "slug": "best-mileage-bikes/street-bikes"
+    }
+  },
+  {
+    "id": 1295,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1628,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1297,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1511,
+    "attributes": {
+      "slug": "best-mileage-bikes/tourer-bikes"
+    }
+  },
+  {
+    "id": 1299,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1631,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1630,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1626,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1625,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1313,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1301,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1305,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1307,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1311,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1294,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1298,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1300,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1303,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1315,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1320,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1304,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1314,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1318,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1310,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1308,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1316,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1302,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1323,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1333,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1321,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1335,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1329,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1325,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1319,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1317,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1327,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1339,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1331,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1324,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1326,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1328,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1322,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1515,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1338,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1521,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1513,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1332,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1334,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1336,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 547,
+    "attributes": {
+      "slug": "electric-bikes/cyborg"
+    }
+  },
+  {
+    "id": 553,
+    "attributes": {
+      "slug": "electric-bikes/lectrix"
+    }
+  },
+  {
+    "id": 580,
+    "attributes": {
+      "slug": "electric-bikes/vmoto-soco"
+    }
+  },
+  {
+    "id": 633,
+    "attributes": {
+      "slug": "electric-scooters/thunderbolt"
+    }
+  },
+  {
+    "id": 605,
+    "attributes": {
+      "slug": "electric-scooters/evolet"
+    }
+  },
+  {
+    "id": 613,
+    "attributes": {
+      "slug": "electric-scooters/techo-electra"
+    }
+  },
+  {
+    "id": 1345,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 614,
+    "attributes": {
+      "slug": "electric-scooters/vespa"
+    }
+  },
+  {
+    "id": 635,
+    "attributes": {
+      "slug": "electric-scooters/stella-moto"
+    }
+  },
+  {
+    "id": 636,
+    "attributes": {
+      "slug": "electric-scooters/eko-tejas"
+    }
+  },
+  {
+    "id": 1510,
+    "attributes": {
+      "slug": "best-mileage-bikes/super-bikes"
+    }
+  },
+  {
+    "id": 1347,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1343,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1690,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1341,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1526,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1348,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1352,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1346,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1520,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1518,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1524,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1349,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1525,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1531,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1527,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1535,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1837,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1533,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1366,
+    "attributes": {
+      "slug": "latest-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1359,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1362,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1442,
+    "attributes": {
+      "slug": "upcoming-scooters/best-125cc-scooters"
+    }
+  },
+  {
+    "id": 1368,
+    "attributes": {
+      "slug": "latest-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 1356,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1364,
+    "attributes": {
+      "slug": "latest-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1358,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1360,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1344,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1363,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1361,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1365,
+    "attributes": {
+      "slug": "latest-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1369,
+    "attributes": {
+      "slug": "latest-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 1351,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1367,
+    "attributes": {
+      "slug": "latest-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 524,
+    "attributes": {
+      "slug": "new-bikes/bicycle"
+    }
+  },
+  {
+    "id": 1538,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1532,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1540,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1528,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1530,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1370,
+    "attributes": {
+      "slug": "latest-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 1372,
+    "attributes": {
+      "slug": "latest-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1371,
+    "attributes": {
+      "slug": "latest-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1373,
+    "attributes": {
+      "slug": "latest-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1555,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1537,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1553,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1547,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1539,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1541,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1549,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1545,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1543,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1559,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1544,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1560,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1556,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1564,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1554,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1562,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1542,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1558,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1548,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1565,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1552,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1569,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1572,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1571,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1568,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1561,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1656,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1650,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1644,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1636,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1659,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1661,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1654,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1652,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1634,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1657,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1642,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1646,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1632,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1651,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1645,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1633,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1635,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1647,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1649,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1653,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1660,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1655,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1662,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1639,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1664,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1658,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1677,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1675,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1669,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1681,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1692,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1673,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1683,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1671,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1685,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1663,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1694,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1679,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1667,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1682,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1684,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1680,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1666,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1678,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1693,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1689,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1676,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1691,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1674,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1687,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1686,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1714,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1726,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1705,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1720,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1724,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1698,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1716,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1701,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1703,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1718,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1696,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1708,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1731,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1704,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1723,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1713,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1706,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1712,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1711,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1709,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1721,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1700,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1715,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1719,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1717,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1702,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1732,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1733,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1730,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1741,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1735,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1743,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1739,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1725,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1727,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1728,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1753,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1749,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1748,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1744,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1756,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1747,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1751,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1746,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1738,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1740,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1742,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1755,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1777,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1787,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1769,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1775,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1783,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1759,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1767,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1781,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1761,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1785,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1771,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1779,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1763,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1778,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1768,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1780,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1772,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1786,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1788,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1764,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1782,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1760,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1758,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1784,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1766,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1774,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1802,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1828,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1808,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1818,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1836,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1799,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1814,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1812,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1816,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1789,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1791,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1820,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1824,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1801,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1798,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1797,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1805,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1792,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1796,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1800,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1794,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1795,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1807,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1793,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1810,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1803,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1825,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1819,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1821,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1827,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1833,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1815,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1826,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1835,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1822,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1823,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1830,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1831,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1817,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1852,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1848,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1843,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1847,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1850,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1854,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1842,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1846,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1849,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1839,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1844,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1856,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1857,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1864,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1853,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1867,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1902,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1872,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1898,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1838,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1855,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1859,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1841,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1894,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1888,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1862,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1880,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1865,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1858,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1863,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1868,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1871,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1873,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1870,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1866,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1878,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1875,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1860,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1897,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1891,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1882,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1884,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1899,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1895,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1883,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1892,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1889,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1886,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1881,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1896,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1921,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1909,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1917,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1907,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1901,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1920,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1900,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1918,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1903,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1916,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1911,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1913,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1905,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1941,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1933,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1906,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1910,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1935,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1928,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1924,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1931,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1937,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1945,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1929,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1943,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1944,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1922,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1923,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1930,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1934,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1938,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1940,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1926,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1942,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1925,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1964,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1958,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1962,
+    "attributes": {
+      "slug": "indian-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1982,
+    "attributes": {
+      "slug": "keeway-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1966,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1976,
+    "attributes": {
+      "slug": "tvs-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1972,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1955,
+    "attributes": {
+      "slug": "aprilia-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1979,
+    "attributes": {
+      "slug": "bajaj-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1983,
+    "attributes": {
+      "slug": "suzuki-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1975,
+    "attributes": {
+      "slug": "bsa-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1981,
+    "attributes": {
+      "slug": "yamaha-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1967,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1989,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1977,
+    "attributes": {
+      "slug": "honda-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1987,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1965,
+    "attributes": {
+      "slug": "ktm-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2006,
+    "attributes": {
+      "slug": "honda-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2020,
+    "attributes": {
+      "slug": "indian-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2012,
+    "attributes": {
+      "slug": "suzuki-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2024,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2002,
+    "attributes": {
+      "slug": "benda-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2004,
+    "attributes": {
+      "slug": "bsa-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2022,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1994,
+    "attributes": {
+      "slug": "ktm-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2031,
+    "attributes": {
+      "slug": "benda-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2023,
+    "attributes": {
+      "slug": "ktm-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2025,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2011,
+    "attributes": {
+      "slug": "keeway-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2005,
+    "attributes": {
+      "slug": "tvs-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1999,
+    "attributes": {
+      "slug": "yezdi-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2003,
+    "attributes": {
+      "slug": "brabus-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2019,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2015,
+    "attributes": {
+      "slug": "bmw-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2030,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2057,
+    "attributes": {
+      "slug": "yezdi-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2040,
+    "attributes": {
+      "slug": "keeway-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2055,
+    "attributes": {
+      "slug": "norton-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2059,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2028,
+    "attributes": {
+      "slug": "yezdi-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2053,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2054,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2058,
+    "attributes": {
+      "slug": "zontes-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2048,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2043,
+    "attributes": {
+      "slug": "benelli-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2050,
+    "attributes": {
+      "slug": "jawa-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2041,
+    "attributes": {
+      "slug": "suzuki-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2044,
+    "attributes": {
+      "slug": "bmw-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2052,
+    "attributes": {
+      "slug": "ktm-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2039,
+    "attributes": {
+      "slug": "yamaha-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2079,
+    "attributes": {
+      "slug": "jawa-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2065,
+    "attributes": {
+      "slug": "hero-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2083,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2073,
+    "attributes": {
+      "slug": "bmw-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2092,
+    "attributes": {
+      "slug": "tvs-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2090,
+    "attributes": {
+      "slug": "brabus-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2077,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2069,
+    "attributes": {
+      "slug": "keeway-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2071,
+    "attributes": {
+      "slug": "aprilia-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2097,
+    "attributes": {
+      "slug": "yamaha-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2089,
+    "attributes": {
+      "slug": "benda-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2101,
+    "attributes": {
+      "slug": "benelli-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2093,
+    "attributes": {
+      "slug": "honda-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2084,
+    "attributes": {
+      "slug": "norton-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2080,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2078,
+    "attributes": {
+      "slug": "indian-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2086,
+    "attributes": {
+      "slug": "yezdi-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2115,
+    "attributes": {
+      "slug": "yezdi-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2129,
+    "attributes": {
+      "slug": "aprilia-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2104,
+    "attributes": {
+      "slug": "ducati-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2111,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2113,
+    "attributes": {
+      "slug": "norton-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2121,
+    "attributes": {
+      "slug": "tvs-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2133,
+    "attributes": {
+      "slug": "ducati-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2107,
+    "attributes": {
+      "slug": "indian-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2131,
+    "attributes": {
+      "slug": "bmw-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2112,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2106,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2130,
+    "attributes": {
+      "slug": "benelli-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2116,
+    "attributes": {
+      "slug": "zontes-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2124,
+    "attributes": {
+      "slug": "bajaj-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2118,
+    "attributes": {
+      "slug": "benda-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2114,
+    "attributes": {
+      "slug": "triumph-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2132,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2160,
+    "attributes": {
+      "slug": "bmw-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2153,
+    "attributes": {
+      "slug": "bajaj-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2138,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2144,
+    "attributes": {
+      "slug": "yezdi-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2142,
+    "attributes": {
+      "slug": "norton-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2152,
+    "attributes": {
+      "slug": "hero-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2150,
+    "attributes": {
+      "slug": "tvs-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2158,
+    "attributes": {
+      "slug": "aprilia-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2159,
+    "attributes": {
+      "slug": "benelli-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2149,
+    "attributes": {
+      "slug": "bsa-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2168,
+    "attributes": {
+      "slug": "ktm-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2141,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2176,
+    "attributes": {
+      "slug": "benda-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2174,
+    "attributes": {
+      "slug": "zontes-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2181,
+    "attributes": {
+      "slug": "hero-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2223,
+    "attributes": {
+      "slug": "indian-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2171,
+    "attributes": {
+      "slug": "norton-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2173,
+    "attributes": {
+      "slug": "yezdi-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2164,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2186,
+    "attributes": {
+      "slug": "suzuki-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2182,
+    "attributes": {
+      "slug": "bajaj-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2183,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2187,
+    "attributes": {
+      "slug": "aprilia-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2169,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2184,
+    "attributes": {
+      "slug": "yamaha-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2194,
+    "attributes": {
+      "slug": "indian-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2204,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2192,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2202,
+    "attributes": {
+      "slug": "yezdi-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2201,
+    "attributes": {
+      "slug": "triumph-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2205,
+    "attributes": {
+      "slug": "benda-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2199,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2190,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2211,
+    "attributes": {
+      "slug": "bajaj-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2209,
+    "attributes": {
+      "slug": "honda-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2222,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2208,
+    "attributes": {
+      "slug": "tvs-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2226,
+    "attributes": {
+      "slug": "ktm-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2220,
+    "attributes": {
+      "slug": "ducati-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2207,
+    "attributes": {
+      "slug": "bsa-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2231,
+    "attributes": {
+      "slug": "yezdi-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2229,
+    "attributes": {
+      "slug": "norton-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2232,
+    "attributes": {
+      "slug": "zontes-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2236,
+    "attributes": {
+      "slug": "bsa-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2228,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2343,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2355,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2351,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2349,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2354,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2345,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2353,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2342,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2344,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2346,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2348,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 2369,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2365,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2371,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2389,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2363,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2380,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2387,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2361,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2382,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2373,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2358,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2364,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2372,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2370,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2362,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2383,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2374,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2368,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2381,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2416,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2420,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2393,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2412,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2403,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2395,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2399,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2405,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2409,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2422,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2414,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2415,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2408,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2394,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2398,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2423,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2410,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2421,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2413,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2406,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 2400,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2402,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2396,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2452,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2428,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2426,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2440,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2450,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2442,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2424,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2436,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2454,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2453,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2433,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2431,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2435,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2429,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2441,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2455,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2451,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2449,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2456,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2033,
+    "attributes": {
+      "slug": "bsa-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1208,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1212,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1211,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1968,
+    "attributes": {
+      "slug": "norton-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1948,
+    "attributes": {
+      "slug": "honda-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1984,
+    "attributes": {
+      "slug": "aprilia-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1216,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1995,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1996,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1985,
+    "attributes": {
+      "slug": "benelli-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1973,
+    "attributes": {
+      "slug": "benda-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2359,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1956,
+    "attributes": {
+      "slug": "benelli-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2447,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1456,
+    "attributes": {
+      "slug": "latest-bikes/sports-naked-bikes"
+    }
+  },
+  {
+    "id": 2009,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1451,
+    "attributes": {
+      "slug": "latest-bikes/naked-bikes"
+    }
+  },
+  {
+    "id": 1452,
+    "attributes": {
+      "slug": "latest-bikes/off-road-bikes"
+    }
+  },
+  {
+    "id": 1457,
+    "attributes": {
+      "slug": "latest-bikes/sports-tourer-bikes"
+    }
+  },
+  {
+    "id": 2439,
+    "attributes": {
+      "slug": "aprilia-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 2390,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 609,
+    "attributes": {
+      "slug": "electric-scooters/odysse"
+    }
+  },
+  {
+    "id": 1247,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1248,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1250,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1244,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1249,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1257,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1285,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1267,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1353,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1286,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1268,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1235,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1342,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1443,
+    "attributes": {
+      "slug": "upcoming-scooters/best-150cc-scooters"
+    }
+  },
+  {
+    "id": 1340,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1350,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1354,
+    "attributes": {
+      "slug": "best-mileage-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1471,
+    "attributes": {
+      "slug": "upcoming-bikes/scrambler-bikes"
+    }
+  },
+  {
+    "id": 1472,
+    "attributes": {
+      "slug": "upcoming-bikes/sports-bikes"
+    }
+  },
+  {
+    "id": 4806,
+    "attributes": {
+      "slug": "new-bikes/bikes-under-60000"
+    }
+  },
+  {
+    "id": 1583,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1597,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 2407,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1584,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1579,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1567,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1613,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1610,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1813,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1550,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1519,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1908,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1887,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 2432,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1879,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1736,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 2379,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2425,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2356,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2341,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1523,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 2357,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1737,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1750,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1557,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 2401,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2350,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1638,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1596,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1762,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1688,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1765,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1869,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1974,
+    "attributes": {
+      "slug": "brabus-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1885,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1670,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1643,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1707,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2029,
+    "attributes": {
+      "slug": "zontes-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2437,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1834,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 2446,
+    "attributes": {
+      "slug": "honda-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1936,
+    "attributes": {
+      "slug": "ktm-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1665,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1722,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1536,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 2377,
+    "attributes": {
+      "slug": "zontes-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1754,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1790,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 2224,
+    "attributes": {
+      "slug": "jawa-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2178,
+    "attributes": {
+      "slug": "bsa-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2448,
+    "attributes": {
+      "slug": "yamaha-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2145,
+    "attributes": {
+      "slug": "zontes-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2000,
+    "attributes": {
+      "slug": "zontes-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1512,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 2212,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2417,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1845,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1593,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1919,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 2068,
+    "attributes": {
+      "slug": "yamaha-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 1998,
+    "attributes": {
+      "slug": "triumph-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2384,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2167,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1950,
+    "attributes": {
+      "slug": "bajaj-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2021,
+    "attributes": {
+      "slug": "jawa-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1640,
+    "attributes": {
+      "slug": "ducati-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1563,
+    "attributes": {
+      "slug": "triumph-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1595,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1529,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1576,
+    "attributes": {
+      "slug": "keeway-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1876,
+    "attributes": {
+      "slug": "jawa-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1551,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1517,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1546,
+    "attributes": {
+      "slug": "yamaha-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1573,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1616,
+    "attributes": {
+      "slug": "kawasaki-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1912,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1622,
+    "attributes": {
+      "slug": "yezdi-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1874,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1752,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1927,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1566,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1607,
+    "attributes": {
+      "slug": "aprilia-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1672,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1939,
+    "attributes": {
+      "slug": "norton-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 2444,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1710,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1773,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1629,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1745,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2140,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2103,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2096,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2032,
+    "attributes": {
+      "slug": "brabus-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2172,
+    "attributes": {
+      "slug": "triumph-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1961,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1832,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1861,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 581,
+    "attributes": {
+      "slug": "electric-bikes/power-electric"
+    }
+  },
+  {
+    "id": 565,
+    "attributes": {
+      "slug": "electric-bikes/cake"
+    }
+  },
+  {
+    "id": 621,
+    "attributes": {
+      "slug": "electric-scooters/rowet"
+    }
+  },
+  {
+    "id": 584,
+    "attributes": {
+      "slug": "electric-bikes/eko-tejas"
+    }
+  },
+  {
+    "id": 1890,
+    "attributes": {
+      "slug": "honda-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1379,
+    "attributes": {
+      "slug": "latest-scooters/best-110cc-scooters"
+    }
+  },
+  {
+    "id": 555,
+    "attributes": {
+      "slug": "electric-bikes/tunwal"
+    }
+  },
+  {
+    "id": 515,
+    "attributes": {
+      "slug": "new-bikes/scooter-bikes"
+    }
+  },
+  {
+    "id": 619,
+    "attributes": {
+      "slug": "electric-scooters/gogoro"
+    }
+  },
+  {
+    "id": 1190,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1668,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1415,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1734,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 2010,
+    "attributes": {
+      "slug": "yamaha-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 589,
+    "attributes": {
+      "slug": "electric-scooters/hero"
+    }
+  },
+  {
+    "id": 1425,
+    "attributes": {
+      "slug": "upcoming-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1589,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1192,
+    "attributes": {
+      "slug": "latest-bikes/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1594,
+    "attributes": {
+      "slug": "zontes-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1505,
+    "attributes": {
+      "slug": "best-mileage-bikes/scrambler-bikes"
+    }
+  },
+  {
+    "id": 1495,
+    "attributes": {
+      "slug": "best-mileage-bikes/adventure-tourer-bikes"
+    }
+  },
+  {
+    "id": 1207,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1209,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1477,
+    "attributes": {
+      "slug": "upcoming-bikes/tourer-bikes"
+    }
+  },
+  {
+    "id": 1273,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1453,
+    "attributes": {
+      "slug": "latest-bikes/scooter-bikes"
+    }
+  },
+  {
+    "id": 1914,
+    "attributes": {
+      "slug": "qj-motor-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1202,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1330,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-2-lakh"
+    }
+  },
+  {
+    "id": 1271,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1306,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1337,
+    "attributes": {
+      "slug": "best-bikes-in-india/bikes-under-15-lakh"
+    }
+  },
+  {
+    "id": 1500,
+    "attributes": {
+      "slug": "best-mileage-bikes/fully-faired-bikes"
+    }
+  },
+  {
+    "id": 1614,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 517,
+    "attributes": {
+      "slug": "new-bikes/sports-tourer-bikes"
+    }
+  },
+  {
+    "id": 616,
+    "attributes": {
+      "slug": "electric-scooters/liger"
+    }
+  },
+  {
+    "id": 1266,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1224,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1234,
+    "attributes": {
+      "slug": "electric-scooters/latest/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1261,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1312,
+    "attributes": {
+      "slug": "electric-bikes/best/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1245,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-80000"
+    }
+  },
+  {
+    "id": 527,
+    "attributes": {
+      "slug": "new-bikes/naked-bikes"
+    }
+  },
+  {
+    "id": 1514,
+    "attributes": {
+      "slug": "hero-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1221,
+    "attributes": {
+      "slug": "latest-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 683,
+    "attributes": {
+      "slug": "new-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 1213,
+    "attributes": {
+      "slug": "electric-bikes/latest/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 1246,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1260,
+    "attributes": {
+      "slug": "upcoming-bikes/bikes-under-80000"
+    }
+  },
+  {
+    "id": 1293,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1296,
+    "attributes": {
+      "slug": "best-scooters-in-india/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1355,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1417,
+    "attributes": {
+      "slug": "upcoming-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1357,
+    "attributes": {
+      "slug": "best-mileage-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1288,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1258,
+    "attributes": {
+      "slug": "electric-bikes/upcoming/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1481,
+    "attributes": {
+      "slug": "best-bikes-in-india/cruiser-bikes"
+    }
+  },
+  {
+    "id": 1420,
+    "attributes": {
+      "slug": "upcoming-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 1287,
+    "attributes": {
+      "slug": "upcoming-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1309,
+    "attributes": {
+      "slug": "electric-scooters/best/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2016,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1239,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1242,
+    "attributes": {
+      "slug": "electric-scooters/upcoming/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1441,
+    "attributes": {
+      "slug": "upcoming-scooters/best-110cc-scooters"
+    }
+  },
+  {
+    "id": 1454,
+    "attributes": {
+      "slug": "latest-bikes/scrambler-bikes"
+    }
+  },
+  {
+    "id": 2125,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 1461,
+    "attributes": {
+      "slug": "upcoming-bikes/adventure-tourer-bikes"
+    }
+  },
+  {
+    "id": 1463,
+    "attributes": {
+      "slug": "upcoming-bikes/commuter-bikes"
+    }
+  },
+  {
+    "id": 2072,
+    "attributes": {
+      "slug": "benelli-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 1464,
+    "attributes": {
+      "slug": "upcoming-bikes/cruiser-bikes"
+    }
+  },
+  {
+    "id": 1603,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 1570,
+    "attributes": {
+      "slug": "tvs-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 1946,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1619,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 2347,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-70000"
+    }
+  },
+  {
+    "id": 1641,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2376,
+    "attributes": {
+      "slug": "vespa-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2430,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2367,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 1648,
+    "attributes": {
+      "slug": "moto-morini-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2378,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-90000"
+    }
+  },
+  {
+    "id": 2388,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1695,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2404,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 1697,
+    "attributes": {
+      "slug": "cfmoto-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2457,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 2434,
+    "attributes": {
+      "slug": "hero-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1699,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2411,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-2-lakh"
+    }
+  },
+  {
+    "id": 1729,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-3-lakh"
+    }
+  },
+  {
+    "id": 1757,
+    "attributes": {
+      "slug": "harley-davidson-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1776,
+    "attributes": {
+      "slug": "bajaj-bikes/bikes-under-5-lakh"
+    }
+  },
+  {
+    "id": 1809,
+    "attributes": {
+      "slug": "suzuki-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1811,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 1770,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-3.5-lakh"
+    }
+  },
+  {
+    "id": 1904,
+    "attributes": {
+      "slug": "indian-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 1932,
+    "attributes": {
+      "slug": "husqvarna-bikes/bikes-under-60-lakh"
+    }
+  },
+  {
+    "id": 1980,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1806,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 2105,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 1637,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2139,
+    "attributes": {
+      "slug": "ktm-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2170,
+    "attributes": {
+      "slug": "moto-morini-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1627,
+    "attributes": {
+      "slug": "bsa-bikes/bikes-under-1-lakh"
+    }
+  },
+  {
+    "id": 2360,
+    "attributes": {
+      "slug": "suzuki-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 1522,
+    "attributes": {
+      "slug": "bmw-bikes/bikes-under-70000"
+    }
+  },
+  {
+    "id": 1915,
+    "attributes": {
+      "slug": "benda-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 2366,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-80000"
+    }
+  },
+  {
+    "id": 2385,
+    "attributes": {
+      "slug": "lambretta-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 1893,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-30-lakh"
+    }
+  },
+  {
+    "id": 2397,
+    "attributes": {
+      "slug": "keeway-scooters/scooters-under-1.5-lakh"
+    }
+  },
+  {
+    "id": 2391,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2392,
+    "attributes": {
+      "slug": "peugeot-scooters/scooters-under-1-lakh"
+    }
+  },
+  {
+    "id": 2427,
+    "attributes": {
+      "slug": "bmw-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 2443,
+    "attributes": {
+      "slug": "srivaru-scooters/scooters-under-3-lakh"
+    }
+  },
+  {
+    "id": 1829,
+    "attributes": {
+      "slug": "brabus-bikes/bikes-under-7.5-lakh"
+    }
+  },
+  {
+    "id": 2419,
+    "attributes": {
+      "slug": "tvs-scooters/scooters-under-2.5-lakh"
+    }
+  },
+  {
+    "id": 1840,
+    "attributes": {
+      "slug": "benelli-bikes/bikes-under-12.5-lakh"
+    }
+  },
+  {
+    "id": 559,
+    "attributes": {
+      "slug": "electric-bikes/hero-electric"
+    }
+  },
+  {
+    "id": 617,
+    "attributes": {
+      "slug": "electric-scooters/birla"
+    }
+  },
+  {
+    "id": 630,
+    "attributes": {
+      "slug": "electric-scooters/kyte-energy"
+    }
+  },
+  {
+    "id": 631,
+    "attributes": {
+      "slug": "electric-scooters/everve"
+    }
+  },
+  {
+    "id": 1574,
+    "attributes": {
+      "slug": "royal-enfield-bikes/bikes-under-90000"
+    }
+  },
+  {
+    "id": 2001,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2045,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2014,
+    "attributes": {
+      "slug": "benelli-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2036,
+    "attributes": {
+      "slug": "hero-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 1993,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2075,
+    "attributes": {
+      "slug": "ducati-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2035,
+    "attributes": {
+      "slug": "honda-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 1997,
+    "attributes": {
+      "slug": "norton-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2117,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 1963,
+    "attributes": {
+      "slug": "jawa-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1992,
+    "attributes": {
+      "slug": "jawa-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2042,
+    "attributes": {
+      "slug": "aprilia-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2013,
+    "attributes": {
+      "slug": "aprilia-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 1978,
+    "attributes": {
+      "slug": "hero-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 1970,
+    "attributes": {
+      "slug": "yezdi-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1991,
+    "attributes": {
+      "slug": "indian-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2027,
+    "attributes": {
+      "slug": "triumph-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2008,
+    "attributes": {
+      "slug": "bajaj-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2061,
+    "attributes": {
+      "slug": "brabus-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2098,
+    "attributes": {
+      "slug": "keeway-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2017,
+    "attributes": {
+      "slug": "ducati-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2127,
+    "attributes": {
+      "slug": "keeway-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2056,
+    "attributes": {
+      "slug": "triumph-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2136,
+    "attributes": {
+      "slug": "indian-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2095,
+    "attributes": {
+      "slug": "bajaj-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2091,
+    "attributes": {
+      "slug": "bsa-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2108,
+    "attributes": {
+      "slug": "jawa-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2162,
+    "attributes": {
+      "slug": "ducati-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2198,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1951,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2007,
+    "attributes": {
+      "slug": "hero-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2049,
+    "attributes": {
+      "slug": "indian-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2087,
+    "attributes": {
+      "slug": "zontes-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2066,
+    "attributes": {
+      "slug": "bajaj-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2074,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2134,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2120,
+    "attributes": {
+      "slug": "bsa-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2143,
+    "attributes": {
+      "slug": "triumph-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2166,
+    "attributes": {
+      "slug": "jawa-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2163,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 1971,
+    "attributes": {
+      "slug": "zontes-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2060,
+    "attributes": {
+      "slug": "benda-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2081,
+    "attributes": {
+      "slug": "ktm-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2146,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2063,
+    "attributes": {
+      "slug": "tvs-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2064,
+    "attributes": {
+      "slug": "honda-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2122,
+    "attributes": {
+      "slug": "honda-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2082,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2062,
+    "attributes": {
+      "slug": "bsa-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2070,
+    "attributes": {
+      "slug": "suzuki-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2099,
+    "attributes": {
+      "slug": "suzuki-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2094,
+    "attributes": {
+      "slug": "hero-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2157,
+    "attributes": {
+      "slug": "suzuki-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2154,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2180,
+    "attributes": {
+      "slug": "honda-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2230,
+    "attributes": {
+      "slug": "triumph-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1988,
+    "attributes": {
+      "slug": "ducati-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2034,
+    "attributes": {
+      "slug": "tvs-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2188,
+    "attributes": {
+      "slug": "benelli-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2067,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2085,
+    "attributes": {
+      "slug": "triumph-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2102,
+    "attributes": {
+      "slug": "bmw-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2148,
+    "attributes": {
+      "slug": "brabus-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2165,
+    "attributes": {
+      "slug": "indian-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2197,
+    "attributes": {
+      "slug": "ktm-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2196,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2216,
+    "attributes": {
+      "slug": "aprilia-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2018,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2225,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2156,
+    "attributes": {
+      "slug": "keeway-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2185,
+    "attributes": {
+      "slug": "keeway-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2147,
+    "attributes": {
+      "slug": "benda-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2175,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2200,
+    "attributes": {
+      "slug": "norton-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2234,
+    "attributes": {
+      "slug": "benda-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2219,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2088,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2047,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2119,
+    "attributes": {
+      "slug": "brabus-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2110,
+    "attributes": {
+      "slug": "ktm-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2177,
+    "attributes": {
+      "slug": "brabus-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2195,
+    "attributes": {
+      "slug": "jawa-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2123,
+    "attributes": {
+      "slug": "hero-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2128,
+    "attributes": {
+      "slug": "suzuki-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2161,
+    "attributes": {
+      "slug": "cfmoto-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2151,
+    "attributes": {
+      "slug": "honda-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2189,
+    "attributes": {
+      "slug": "bmw-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2191,
+    "attributes": {
+      "slug": "ducati-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2213,
+    "attributes": {
+      "slug": "yamaha-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2135,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2155,
+    "attributes": {
+      "slug": "yamaha-bikes/best-400cc-bikes"
+    }
+  },
+  {
+    "id": 2218,
+    "attributes": {
+      "slug": "bmw-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2203,
+    "attributes": {
+      "slug": "zontes-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1969,
+    "attributes": {
+      "slug": "triumph-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2037,
+    "attributes": {
+      "slug": "bajaj-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2193,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1953,
+    "attributes": {
+      "slug": "keeway-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2046,
+    "attributes": {
+      "slug": "ducati-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2126,
+    "attributes": {
+      "slug": "yamaha-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2210,
+    "attributes": {
+      "slug": "hero-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2217,
+    "attributes": {
+      "slug": "benelli-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1990,
+    "attributes": {
+      "slug": "husqvarna-bikes/best-110cc-bikes"
+    }
+  },
+  {
+    "id": 2026,
+    "attributes": {
+      "slug": "norton-bikes/best-125cc-bikes"
+    }
+  },
+  {
+    "id": 2214,
+    "attributes": {
+      "slug": "keeway-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2215,
+    "attributes": {
+      "slug": "suzuki-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2233,
+    "attributes": {
+      "slug": "qj-motor-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2038,
+    "attributes": {
+      "slug": "royal-enfield-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 1949,
+    "attributes": {
+      "slug": "hero-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1959,
+    "attributes": {
+      "slug": "ducati-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2179,
+    "attributes": {
+      "slug": "tvs-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 1960,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2206,
+    "attributes": {
+      "slug": "brabus-bikes/best-500cc-bikes"
+    }
+  },
+  {
+    "id": 2235,
+    "attributes": {
+      "slug": "brabus-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 2109,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2227,
+    "attributes": {
+      "slug": "moto-guzzi-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1947,
+    "attributes": {
+      "slug": "tvs-bikes/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 2100,
+    "attributes": {
+      "slug": "aprilia-bikes/best-300cc-bikes"
+    }
+  },
+  {
+    "id": 2076,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-250cc-bikes"
+    }
+  },
+  {
+    "id": 2137,
+    "attributes": {
+      "slug": "jawa-bikes/best-350cc-bikes"
+    }
+  },
+  {
+    "id": 2051,
+    "attributes": {
+      "slug": "kawasaki-bikes/best-150cc-bikes"
+    }
+  },
+  {
+    "id": 2221,
+    "attributes": {
+      "slug": "harley-davidson-bikes/best-bikes-above-500cc"
+    }
+  },
+  {
+    "id": 1478,
+    "attributes": {
+      "slug": "best-bikes-in-india/adventure-tourer-bikes"
+    }
+  },
+  {
+    "id": 1406,
+    "attributes": {
+      "slug": "best-bikes-in-india/best-100cc-bikes"
+    }
+  },
+  {
+    "id": 1479,
+    "attributes": {
+      "slug": "best-bikes-in-india/cafe-racer-bikes"
+    }
+  },
+  {
+    "id": 407,
+    "attributes": {
+      "slug": "yamaha-scooters"
+    }
+  }
+]
